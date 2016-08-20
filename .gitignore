@@ -1,0 +1,6 @@
+#Exclude all but specified dotfiles
+*
+!.Xresources
+!.xinitrc
+!.i3status.conf
+!.config/i3/config
