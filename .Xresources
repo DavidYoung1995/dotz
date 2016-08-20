@@ -1,0 +1,12 @@
+URxvt.font:xft:Iosevka Term:size=10:antialias=true
+URxvt.boldFont:xft:Iosevka Term Bold:size=10:antialias=true
+URxvt.depth: 32
+URxvt.transparent: true
+URxvt.foreground: yellow
+URxvt.background: #101010
+URxvt.shading: 20
+URxvt.scrollstyle: urxvt
+URxvt.scrollTtyKeypress: true
+URxvt.scrollWithBuffer: true
+URxvt.scrollTtyOutput: false
+URxvt.scrollBar: false
